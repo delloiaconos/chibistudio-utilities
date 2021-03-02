@@ -1,2 +1,2 @@
 # ChibiStudio-Starter Files
-Modified CihibiStudio starter files
+Modified ChibiStudio starter files
